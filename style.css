@@ -1,0 +1,15 @@
+
+h1{
+    color: firebrick(161, 0, 0);
+    text-align: center;
+    font-size: 50ox;
+}
+body{background-color:() aliceblue(255, 117, 117);}
+h2{font-size: 40px;}
+p{font-size: 30px;}
+
+.imagem1{
+    width: 50px;
+    border: 5px solid rgb red (71, 71, 71);
+    display: flex;  
+}
